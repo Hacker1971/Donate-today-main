@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: inter ;
+}
+.bigimg{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.overly{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.let{
+    font-weight: 700;
+    font-size: 65px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.lor{
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.btn-01{
+    background: #FF5959;
+    border-radius: 5px;
+    width: 160px;
+    height: 56px;
+    border: 0;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.don{
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 54px;
+        text-align: center;
+        margin-top: 130px;
+        color: #121212;
+}
+.lor-02{
+    font-size: 18px;
+    text-align: center;
+    color: #707070;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.tata{
+    display: flex;
+    gap: 47px;
+    justify-content: center;
+    align-items: center;
+}
+.title-tk{
+    color: #707070;
+    font-weight: 700;
+    font-size: 30px;
+}
+.title-tk-200{
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #707070;
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    width: 136px;
+    padding: 43px 13px;
+    margin-bottom: 60px;
+
+}
+.other{
+    font-size: 18px;
+    text-align: center;
+    color: #B3B3B3;
+}
+.hr{
+    border: 1px solid #DADADA;
+    width: 765px;
+    height: 0px;
+    margin-left: 435px;
+    margin-bottom: 30px;
+}
+.butt{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 130px;
+}
+.prent{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 130px;
+}
+.child{
+    background: rgba(79, 157, 166, 0.1);
+    width: 360px;
+    height: 252px;
+    border-radius: 5px;
+    padding: 43px 23px;
+}
+.child-02{
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+    width: 360px;
+    height: 252px;
+    padding: 43px 23px;
+}
+.child-03{
+    border-radius: 5px;
+    width: 360px;
+    height: 252px;
+    padding: 43px 23px;
+    background: rgba(206, 111, 111, 0.505);
+}
+.food{
+    color: #121212;
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+.loren-01{
+    color: #707070;
+    margin-bottom: 54px;
+}
