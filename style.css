@@ -91,7 +91,7 @@
     border: 1px solid #DADADA;
     width: 765px;
     height: 0px;
-    margin-left: 435px;
+    margin-left: 300px;
     margin-bottom: 30px;
 }
 .butt{
@@ -147,6 +147,7 @@
     margin-bottom: 130px;
 }
 .lor-03{
+    text-align:justify;
     margin-top: 20px;
     margin-bottom: 20px;
     color: #707070;
@@ -170,4 +171,89 @@
     height: 477px;
     border-radius: 5px;
 
+}
+.suvive{
+    display: flex;
+    justify-content: center;
+    gap: 94px;
+    margin-bottom: 100px;
+}
+.por{
+    width: 456px;
+    height: 477px;
+    border-radius: 5px;
+}
+.to{
+    width: 482px;
+    height: 374px;
+}
+.don-02{
+    color: #121212;
+    font-weight: 700;
+    font-size: 45px;
+    margin-left: 135px;
+}
+.get{
+    color: #121212;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.sit{
+    color: #707070;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.big{
+    background: #FFF4D6;
+    width: 600px;
+    height: 40px;
+    margin: 0 auto;
+    padding: 76px 180px;
+    margin-bottom: 142px;
+}
+input{
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    width: 293.7px;
+    height: 38.88px;
+    border: 0;
+    padding-top: 5px;
+    padding-left: 18px;
+
+}
+.btn-05{
+    background: #FF5959;
+    border-radius: 0px 5px 5px 0px;
+    width: 167.67px;
+    height: 38.88px;
+    border: 0;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 500;
+    padding-top: 10px 18px;
+    margin-left: 0;
+}
+footer{
+    background: #0B0D17;
+    width: 100vw;
+    height: 177px;
+}
+.be{
+    color: #FF5959;
+    font-family: 'Lobster';
+    letter-spacing: 0.5px;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 43px;
+}
+.am{
+    color: #D9DBE1;
+    font-feature-settings: 'liga' off;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 14px;
 }
